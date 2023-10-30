@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;    
+}
+
+body{
+    font-family: arial;
+    width: 300px 50% 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  fieldset label{
+    display: block;
+  }
